@@ -1,0 +1,14 @@
+2021-12-06T09:55:30+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\wp\woocommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2021-12-06T13:14:13+00:00 CRITICAL Trait 'Essential_Addons_Elementor\Traits\Core' not found in C:\xampp\htdocs\wp\woocommerce\wp-content\plugins\essential-addons-for-elementor-lite\includes\Classes\Migration.php on line 9
+
+2021-12-06T13:14:21+00:00 CRITICAL Trait 'Essential_Addons_Elementor\Traits\Core' not found in C:\xampp\htdocs\wp\woocommerce\wp-content\plugins\essential-addons-for-elementor-lite\includes\Classes\Migration.php on line 9
+
+2021-12-06T13:14:22+00:00 CRITICAL Trait 'Essential_Addons_Elementor\Traits\Core' not found in C:\xampp\htdocs\wp\woocommerce\wp-content\plugins\essential-addons-for-elementor-lite\includes\Classes\Migration.php on line 9
+
+2021-12-06T13:15:41+00:00 CRITICAL Trait 'Essential_Addons_Elementor\Traits\Core' not found in C:\xampp\htdocs\wp\woocommerce\wp-content\plugins\essential-addons-for-elementor-lite\includes\Classes\Migration.php on line 9
+
+2021-12-06T13:15:48+00:00 CRITICAL Trait 'Essential_Addons_Elementor\Traits\Core' not found in C:\xampp\htdocs\wp\woocommerce\wp-content\plugins\essential-addons-for-elementor-lite\includes\Classes\Migration.php on line 9
+
+2021-12-06T13:15:49+00:00 CRITICAL Trait 'Essential_Addons_Elementor\Traits\Core' not found in C:\xampp\htdocs\wp\woocommerce\wp-content\plugins\essential-addons-for-elementor-lite\includes\Classes\Migration.php on line 9
+
